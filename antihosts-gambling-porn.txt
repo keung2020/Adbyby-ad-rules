@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-03-29 21:37:28
+# DATE: 2024-04-03 21:37:30
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -4668,6 +4668,7 @@
 0.0.0.0 anyxxxvideo.com
 0.0.0.0 ao-fickanzeiger.net
 0.0.0.0 ao-girls.net
+0.0.0.0 aoays.xyz
 0.0.0.0 aoflix.com
 0.0.0.0 aogirls.eu
 0.0.0.0 aohuren.eu
@@ -30327,9 +30328,13 @@
 0.0.0.0 javhdfilms.com
 0.0.0.0 javhdfree.net
 0.0.0.0 javhdfuck.com
+0.0.0.0 javhdhay.city
 0.0.0.0 javhdhay.me
 0.0.0.0 javhdhay.net
+0.0.0.0 javhdhay.red
+0.0.0.0 javhdhay.us
 0.0.0.0 javhdhayz.com
+0.0.0.0 javhdhayz.me
 0.0.0.0 javhdhayz.net
 0.0.0.0 javhdhayz.pro
 0.0.0.0 javhdhello.com
@@ -51258,6 +51263,7 @@
 0.0.0.0 s0.cdn3x.com
 0.0.0.0 s0.img.awempire.com
 0.0.0.0 s01.yapfiles.ru
+0.0.0.0 s0106.com
 0.0.0.0 s02.yapfiles.ru
 0.0.0.0 s0kn5.com
 0.0.0.0 s1.akuma.moe
