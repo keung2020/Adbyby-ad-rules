@@ -1,9 +1,11 @@
-! ----Updatetime: 2024-02-25 21:37:26 by:Mr.K----
+! ----Updatetime: 2024-04-05 21:37:27 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
 cad.youku.com
 ||alicdn.com/awsc/et/
+t7z.cupid.iqiyi.com
+||www.iqiyi.com/service-worker.js
 apisgame.iqiyi.com
 static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
@@ -87,6 +89,8 @@ stgowan.com
 ||cibntv.net/youku/$media
 ||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
 ||sealine.youku.com/yk/*callback=adpagesdk$script
+||static.iqiyi.com/js/common/mars_v.js^$script
+||127.0.0.1^$script,domain=iqiyi.com
 ||iqiyipic.com/image/20*_100000$image
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script

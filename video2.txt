@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-04-02 21:37:42
+! Version: 2024-04-05 21:37:27
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -15,7 +15,14 @@ cad.youku.com
 ||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
 ||alicdn.com/awsc/et/
 ||sealine.youku.com/yk/*callback=adpagesdk$script
+iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
 iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
+t7z.cupid.iqiyi.com
+||mesh.if.iqiyi.com/player/pcw/update/commonAppDownloadData^$xhr
+||static.iqiyi.com/js/common/mars_v.js^$script
+||video.iqiyi.com/ws$websocket
+||www.iqiyi.com/service-worker.js
+||127.0.0.1^$script,domain=iqiyi.com
 ||iqiyipic.com/image/20*_100000$image
 apisgame.iqiyi.com
 static.g.iqiyi.com
