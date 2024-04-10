@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-04-04 21:37:48
+# DATE: 2024-04-10 21:37:28
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -8162,6 +8162,7 @@
 0.0.0.0 bk8vn.live
 0.0.0.0 bk8vn.vip
 0.0.0.0 bk8vnd.com
+0.0.0.0 bk8vninternal.com
 0.0.0.0 bk8win.top
 0.0.0.0 bknkz.flndmyiove.net
 0.0.0.0 bl.definebabe.com
@@ -16580,6 +16581,7 @@
 0.0.0.0 dunder.com
 0.0.0.0 dungeonvirgins.com
 0.0.0.0 dunjav.com
+0.0.0.0 duongdenkhungthanh.com
 0.0.0.0 dupose.com
 0.0.0.0 durchficken.com
 0.0.0.0 durex.panel-laboralcj.gob.mx
@@ -23334,6 +23336,7 @@
 0.0.0.0 go88vn.vip
 0.0.0.0 go88x.club
 0.0.0.0 go8vui.info
+0.0.0.0 go99.pro
 0.0.0.0 goal123.com
 0.0.0.0 goal68.com
 0.0.0.0 goal68.net
@@ -29632,6 +29635,7 @@
 0.0.0.0 iwinapplink.club
 0.0.0.0 iwinclub.onl
 0.0.0.0 iwinclub.win
+0.0.0.0 iwinclubvn.com
 0.0.0.0 iwriteadirtyblog.blogspot.com
 0.0.0.0 iwvs.nl
 0.0.0.0 ixiporn-com.ru
@@ -36418,7 +36422,6 @@
 0.0.0.0 media.xnxxporns.com
 0.0.0.0 media.xnxxsilo.com
 0.0.0.0 media.xvix.eu
-0.0.0.0 media.xxxlutz.com
 0.0.0.0 media.yalladownload.com
 0.0.0.0 media.zebkbeer.com
 0.0.0.0 media.zoosexfarm.com
@@ -36600,6 +36603,7 @@
 0.0.0.0 members.latinboyz.com
 0.0.0.0 members.layered-nylons.com
 0.0.0.0 members.lovehairy.com
+0.0.0.0 members.luscious.net
 0.0.0.0 members.notanangel.deluxepass.com
 0.0.0.0 members.perfectgonzo.com
 0.0.0.0 members.phil-flash.com
@@ -44905,6 +44909,7 @@
 0.0.0.0 playiwin.site
 0.0.0.0 playiwin.top
 0.0.0.0 playiwin.uk
+0.0.0.0 playiwinclub.pro
 0.0.0.0 playluxx.net
 0.0.0.0 playmanclub.uk
 0.0.0.0 playmanclub.vin
@@ -68631,6 +68636,7 @@
 0.0.0.0 www.bk8vn.live
 0.0.0.0 www.bk8vn.vip
 0.0.0.0 www.bk8vnd.com
+0.0.0.0 www.bk8vninternal.com
 0.0.0.0 www.bk8win.top
 0.0.0.0 www.black--anal--sex.blogspot.com
 0.0.0.0 www.black-cat-teens.blogspot.com
@@ -70776,6 +70782,7 @@
 0.0.0.0 www.dunder.com
 0.0.0.0 www.dungeonvirgins.com
 0.0.0.0 www.dunjav.com
+0.0.0.0 www.duongdenkhungthanh.com
 0.0.0.0 www.durchficken.com
 0.0.0.0 www.dusanrandja.blogspot.com
 0.0.0.0 www.dutchangels.nl
@@ -85513,8 +85520,6 @@
 0.0.0.0 www.xxxlesbianxxx.com
 0.0.0.0 www.xxxlinkshunter.com
 0.0.0.0 www.xxxloader.com
-0.0.0.0 www.xxxlutz.at
-0.0.0.0 www.xxxlutz.de
 0.0.0.0 www.xxxluxury.com
 0.0.0.0 www.xxxmangasex.com
 0.0.0.0 www.xxxmature.be
