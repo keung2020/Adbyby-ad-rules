@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-03-15 21:37:33 by:Mr.K----
+! ----Updatetime: 2024-04-14 23:29:00 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -66,6 +66,7 @@ tanx.com
 */vamaker/
 wrating.com
 wwads.cn
+*##.ad
 *##.ad960-90
 *##.adbox
 *##.adtable

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Lazy Created by MrK
-! Version: 2024-03-15 21:37:33
+! Version: 2024-04-14 23:29:00
 ! Expires: 12 Hours
 ! Modified from xinggsf,hacamer.Thanks
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
@@ -40,9 +40,7 @@ pan.baidu.com##.ad-platform-tips, .phone-banner
 zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy
 ||s1.bdstatic.com/r/www/cache/biz/ecom/common/api/$script
 @@||tb1.bdstatic.com/??/tb/_/*/ad_$script
-||jd.com^$removeparam=/^utm_/
-||taobao.com^$removeparam=/^utm_/
-||tmall.com^$removeparam=/^utm_/
+*$doc,removeparam=/^utm_/
 ||ad.
 */ad.
 @@||xxxy.jnu.edu.cn/_upload/tpl/08/ad/2221/template2221/$script
@@ -94,6 +92,7 @@ tanx.com
 */vamaker/
 wrating.com
 wwads.cn
+*##.ad
 *##.ad960-90
 *##.adbox
 *##.adtable
