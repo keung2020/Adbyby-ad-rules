@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Lazy Created by MrK
-! Version: 2024-04-14 23:29:00
+! Version: 2024-04-17 21:37:38
 ! Expires: 12 Hours
 ! Modified from xinggsf,hacamer.Thanks
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
@@ -353,27 +353,22 @@ autohome.com.cn###s2287
 ||x.autoimg.cn/dealer/custom/subsite/forcePicAd20160628.js
 ||autoimg.cn/admdfs/
 ||autohome.com.cn/adfront/
-blog.csdn.net###content_views pre, #content_views pre code:style(user-select:auto!important)
-@@||g.csdnimg.cn/$script
-||img-ads.csdn.net/
+img-ads.csdn.net
 www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 ||www.epinv.com/wp-content/themes/ep/tu/
 ||firefoxchina.cn/html/$subdocument
 ||api.huaban.com/ads^$xhr,1p,redirect=noop.txt
 ||t1.hoopchina.com.cn/$subdocument
 ithome.com##.categoryimg,#hd_float,#side_func,#con>#tt5>div,div.related_buy,li.sb_list:nth-child(5)
-jb51.net##.clearfix.mtb10:first-child,div.r300>.idc3,#txtlink,div.topimg,#param.content-box+div,#xgd+dd
 ||files.jb51.net^$image
+icws.jb51.net
 jianshu.com###note-fixed-ad-container
 ||jianshu.io/assets/web/*-ads-$image
 udiab1.jianshu.com
 juejin.im##.banner,.wechat-banner
 ||gold-cdn.xitu.io/asset/sidbar-banner/$image
 wiki.mbalib.com###ad-phone
-mydrivers.com###right_tab li:first-child, #left_tab li:first-child
-||icons.mydrivers.com/news/2018/ry$image
-||icons.mydrivers.com/20*.gif^$image
-||mydrivers.com/*_728_90.$image
+||news.mydrivers.com/incutf8/HaoWuTuiJianTop6_2023.js$script
 ||www.myhack58.com/Articleacb0$image
 myhack58.com##.CMBox>.adv32
 ||files.nyaa.se/be-$image
