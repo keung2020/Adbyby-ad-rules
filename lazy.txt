@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-04-17 21:37:38 by:Mr.K----
+! ----Updatetime: 2024-04-18 21:37:25 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -196,16 +196,11 @@ www.chnmoney.com##.tonglan
 eastmoney.com##.footer-ads,#rightAD
 ||hxsame.hexun.com/
 ||itv.hexun.com/
-51cto.com###ft~div
-51cto.com##div:has(#tonglanad)
-||i1.51cto.com/
-||i2.51cto.com/
-||i3.51cto.com/
 autohome.com.cn###s2287
 ||x.autoimg.cn/dealer/custom/subsite/forcePicAd20160628.js
 ||autoimg.cn/admdfs/
 ||autohome.com.cn/adfront/
-img-ads.csdn.net
+csdn.net###mainBox~*, body > .imgViewDom~*
 www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 ||www.epinv.com/wp-content/themes/ep/tu/
 ithome.com##.categoryimg,#hd_float,#side_func,#con>#tt5>div,div.related_buy,li.sb_list:nth-child(5)
@@ -214,7 +209,7 @@ jianshu.com###note-fixed-ad-container
 udiab1.jianshu.com
 juejin.im##.banner,.wechat-banner
 wiki.mbalib.com###ad-phone
-myhack58.com##.CMBox>.adv32
+news.mydrivers.com##.main_right_div:nth-of-type(4)
 ||33.pcpop.com
 ||ashow.pcpop.com/
 v2ex.com##.box:has(.sidebar_compliance)
@@ -900,14 +895,13 @@ pageMediaControl*$script
 ||cn.ft.com/a.html?$subdocument
 ||www.ftchinese.com/a.html$subdocument
 ||www.hexun.com/hxpage/index.html$subdocument
+||g.csdnimg.cn/asdf/*/trackad.js|$script,important
 ||firefoxchina.cn/html/$subdocument
 ||t1.hoopchina.com.cn/$subdocument
 ||files.jb51.net^$image
 ||jianshu.io/assets/web/*-ads-$image
 ||gold-cdn.xitu.io/asset/sidbar-banner/$image
 ||news.mydrivers.com/incutf8/HaoWuTuiJianTop6_2023.js$script
-||www.myhack58.com/Articleacb0$image
-||files.nyaa.se/be-$image
 ||static.oschina.net/*_banner_$image
 ||static.oschina.net/uploads/space/20*.jpg|$image
 ||v2ex.assets.uxengine.net/assets/sidebar/$image

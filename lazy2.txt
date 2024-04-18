@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Lazy Created by MrK
-! Version: 2024-04-17 21:37:38
+! Version: 2024-04-18 21:37:25
 ! Expires: 12 Hours
 ! Modified from xinggsf,hacamer.Thanks
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
@@ -344,16 +344,12 @@ eastmoney.com##.footer-ads,#rightAD
 ||hxsame.hexun.com/
 ||itv.hexun.com/
 ||www.hexun.com/hxpage/index.html$subdocument
-51cto.com###ft~div
-51cto.com##div:has(#tonglanad)
-||i1.51cto.com/
-||i2.51cto.com/
-||i3.51cto.com/
 autohome.com.cn###s2287
 ||x.autoimg.cn/dealer/custom/subsite/forcePicAd20160628.js
 ||autoimg.cn/admdfs/
 ||autohome.com.cn/adfront/
-img-ads.csdn.net
+csdn.net###mainBox~*, body > .imgViewDom~*
+||g.csdnimg.cn/asdf/*/trackad.js|$script,important
 www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 ||www.epinv.com/wp-content/themes/ep/tu/
 ||firefoxchina.cn/html/$subdocument
@@ -368,10 +364,9 @@ udiab1.jianshu.com
 juejin.im##.banner,.wechat-banner
 ||gold-cdn.xitu.io/asset/sidbar-banner/$image
 wiki.mbalib.com###ad-phone
+news.mydrivers.com##.main_right_div:nth-of-type(4)
+mydrivers.com##+js(set,jQuery.fn.resetIdleTimeup,trueFunc)
 ||news.mydrivers.com/incutf8/HaoWuTuiJianTop6_2023.js$script
-||www.myhack58.com/Articleacb0$image
-myhack58.com##.CMBox>.adv32
-||files.nyaa.se/be-$image
 ||static.oschina.net/*_banner_$image
 ||static.oschina.net/uploads/space/20*.jpg|$image
 ||33.pcpop.com
