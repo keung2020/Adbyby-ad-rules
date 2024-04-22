@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-04-19 21:37:45
+! Version: 2024-04-22 21:37:37
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -18,10 +18,10 @@ cad.youku.com
 iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
 iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
 t7z.cupid.iqiyi.com
-||mesh.if.iqiyi.com/player/pcw/update/commonAppDownloadData^$xhr
 ||static.iqiyi.com/js/common/mars_v.js^$script
 ||video.iqiyi.com/ws$websocket
 ||www.iqiyi.com/service-worker.js
+||mesh.if.iqiyi.com/player/pcw/update/commonAppDownloadData^$xhr
 ||127.0.0.1^$script,domain=iqiyi.com
 ||iqiyipic.com/image/20*_100000$image
 apisgame.iqiyi.com
@@ -48,6 +48,7 @@ tencentmind.com
 xtgreat.com
 bilibili.com##.ad-report, .ad-floor
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
+||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js^$script,redirect=noop.js
 ||hdslb.com/bfs/sycp/creative_img/$image
 cm.bilibili.com
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
@@ -63,6 +64,7 @@ de.as.pptv.com
 pub.funshion.com
 ||relive.vodfile.m1905.com/video/qiantie202$media
 1905.com##.pauseInfoWrap:remove()
+sobot.com
 @@||tb.mgtv.com/sdk/*/ad-sdk.
 ad-survey.com
 ||video.da.mgtv.com/$media
@@ -102,9 +104,14 @@ zhiziyun.com
 le.com##.min_pause_img
 le.com##.hv_wm_logo
 cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
-douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
 ||douyucdn.cn/adxdsp/$image
+||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
 wan.douyu.com
+||shark2.douyucdn.cn/front-publish/live-master/js/room/topBanner_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/ScreenBannerAd_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/CloseVideoAd_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/FreeTimeAd_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/SuspendedBallAd_$script
 douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 huya.com###hy-ad,#hy-ab,#huya-ab
 www.huya.com##.sidebar-banner
@@ -113,7 +120,8 @@ www.huya.com##.duya-header-right,#public-screen-ab
 ||midext2.cdn.huya.com/ext-web-mid/ext-web-sub-frame/$subdocument
 ||live-cover.msstatic.com/huyalive/*.jpg?$image
 ||tx-live-cover.msstatic.com/huyalive/*.jpg?$image
-||a.msstatic.com/huya/main3/components/OnTVLottery/$script
+||msstatic.com/huya/main3/components/OnTVLottery/$script
+||msstatic.com/huya/main3/assets/modules/CommercialAdSdk/$script
 ||cdn.huya.com/leaf/*_max.m3u8?$xhr
 g.huya.com
 statwup.huya.com
@@ -140,7 +148,7 @@ jads.co
 age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
 ||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com|subaibaiys.com
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
-dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
+dandanzan.com,nnyy.in##.gm-fp-body video:style(max-height:100%!important)
 aqours.today
 2qpqwkx.cn
 z4a.net

@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-04-18 21:37:25
+# DATE: 2024-04-22 21:37:37
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -533,6 +533,7 @@
 0.0.0.0 1watchmygf.com
 0.0.0.0 1webcam-gratuite.com
 0.0.0.0 1wete.tumblr.com
+0.0.0.0 1x.club
 0.0.0.0 1x2plus.com
 0.0.0.0 1xbet.com
 0.0.0.0 1xbet88vn.net
@@ -12768,6 +12769,7 @@
 0.0.0.0 choingayiwin.cc
 0.0.0.0 choingayiwin.top
 0.0.0.0 choingayone88.win
+0.0.0.0 choiriikvip.today
 0.0.0.0 choisport.com
 0.0.0.0 choisv88.live
 0.0.0.0 choita88.club
@@ -14529,6 +14531,7 @@
 0.0.0.0 dabet.fun
 0.0.0.0 dabet.me
 0.0.0.0 dabet.top
+0.0.0.0 dabet.tv
 0.0.0.0 dabet.uk
 0.0.0.0 dabet.us
 0.0.0.0 dabet.win
@@ -14713,6 +14716,8 @@
 0.0.0.0 dangkyee88.online
 0.0.0.0 dangkygo88.in
 0.0.0.0 dangkykubet.vip
+0.0.0.0 dangkyrikvip.live
+0.0.0.0 dangkyrikvip.me
 0.0.0.0 dangkyrikvip.org
 0.0.0.0 dangkyrikvip.tv
 0.0.0.0 dangkythabet.com
@@ -15315,6 +15320,7 @@
 0.0.0.0 debet.club
 0.0.0.0 debet.com
 0.0.0.0 debet.info
+0.0.0.0 debet.net
 0.0.0.0 debet.top
 0.0.0.0 debet.win
 0.0.0.0 debet88.win
@@ -18468,6 +18474,7 @@
 0.0.0.0 fabet.live
 0.0.0.0 fabet.me
 0.0.0.0 fabet.net
+0.0.0.0 fabet.to
 0.0.0.0 fabet.tv
 0.0.0.0 fabet.us
 0.0.0.0 fabet.vip
@@ -34729,6 +34736,7 @@
 0.0.0.0 lp.adulttime.xxx
 0.0.0.0 lp.agentredgirl.com
 0.0.0.0 lp.blowpass.com
+0.0.0.0 lp.choiriikvip.today
 0.0.0.0 lp.choitet.vip
 0.0.0.0 lp.devilsfilm.com
 0.0.0.0 lp.fantasymassage.com
@@ -39405,7 +39413,6 @@
 0.0.0.0 new88.ai
 0.0.0.0 new88.love
 0.0.0.0 new88.tips
-0.0.0.0 new88011.com
 0.0.0.0 new8803.com
 0.0.0.0 new8805.com
 0.0.0.0 new8808.vip
@@ -49265,6 +49272,7 @@
 0.0.0.0 pt.xhwide2.com
 0.0.0.0 pt.xxxi.porn
 0.0.0.0 pt.youporn.com
+0.0.0.0 pt1.fabet.win
 0.0.0.0 pt66.vip
 0.0.0.0 ptaka.ml
 0.0.0.0 ptapjmp.com
@@ -51474,6 +51482,7 @@
 0.0.0.0 saharabet.com
 0.0.0.0 saharanights.info
 0.0.0.0 sai.booru.org
+0.0.0.0 saigonbet.net
 0.0.0.0 saikou-no-hentai.blogspot.com
 0.0.0.0 saintmaarten.adultsearch.com
 0.0.0.0 saiphin2973.blogspot.com
@@ -54711,6 +54720,7 @@
 0.0.0.0 sin88.cc
 0.0.0.0 sin88.club
 0.0.0.0 sin88.mobi
+0.0.0.0 sin88.mx
 0.0.0.0 sin88.uk
 0.0.0.0 sin88.us
 0.0.0.0 sin88.vip
@@ -61046,6 +61056,7 @@
 0.0.0.0 ujizzxxxindia.pro
 0.0.0.0 uk-webcams.com
 0.0.0.0 uk.biguz.net
+0.0.0.0 uk88.com
 0.0.0.0 uk88.top
 0.0.0.0 ukchatbabes.com
 0.0.0.0 ukdevilz-com.ru
@@ -61746,6 +61757,7 @@
 0.0.0.0 vegas.betway.com
 0.0.0.0 vegas.williamhill.com
 0.0.0.0 vegas79.casino
+0.0.0.0 vegas79.group
 0.0.0.0 vegascamgirls.sex
 0.0.0.0 vegashero.com
 0.0.0.0 vegashotescort.com
@@ -62791,6 +62803,7 @@
 0.0.0.0 vip-zona.net
 0.0.0.0 vip.24porno.zone
 0.0.0.0 vip.8kbet.vn
+0.0.0.0 vip.dangkyrikvip.me
 0.0.0.0 vip.dangkyrikvip.tv
 0.0.0.0 vip.mtree.com
 0.0.0.0 vip.sexbab.com
@@ -62846,6 +62859,7 @@
 0.0.0.0 vipporna.com
 0.0.0.0 vipporntoday.com
 0.0.0.0 vipreddit.blogspot.com
+0.0.0.0 viprik.pro
 0.0.0.0 vipsecret.com.br
 0.0.0.0 vipsex.one
 0.0.0.0 vipsexvault.com
@@ -64700,6 +64714,7 @@
 0.0.0.0 wp.rikvip.tv
 0.0.0.0 wp.rikvipp.net
 0.0.0.0 wp.sky88.fun
+0.0.0.0 wp.viprik.pro
 0.0.0.0 wp.yourlustmedia.com
 0.0.0.0 wpbuddy.net
 0.0.0.0 wporncomics.com
@@ -77192,7 +77207,6 @@
 0.0.0.0 www.new-sango-hentai.blogspot.com
 0.0.0.0 www.new-sexy-video.com
 0.0.0.0 www.new-tops.com
-0.0.0.0 www.new88011.com
 0.0.0.0 www.new8808.vip
 0.0.0.0 www.newangelicseduction.com
 0.0.0.0 www.newarabsex.com

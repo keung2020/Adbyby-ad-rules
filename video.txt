@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-04-19 21:37:45 by:Mr.K----
+! ----Updatetime: 2024-04-22 21:37:37 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -33,6 +33,7 @@ synacast.com
 de.as.pptv.com
 pub.funshion.com
 1905.com##.pauseInfoWrap:remove()
+sobot.com
 @@||tb.mgtv.com/sdk/*/ad-sdk.
 ad-survey.com
 @@||js.tv.itc.cn/gg.seed.js
@@ -78,7 +79,7 @@ youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkl
 91p20.space
 waust.at
 jads.co
-dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
+dandanzan.com,nnyy.in##.gm-fp-body video:style(max-height:100%!important)
 aqours.today
 2qpqwkx.cn
 z4a.net
@@ -113,11 +114,18 @@ stgowan.com
 ||js.letvcdn.com/*_banner_$script
 ||jd.com/$domain=le.com
 ||douyucdn.cn/adxdsp/$image
+||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/topBanner_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/ScreenBannerAd_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/CloseVideoAd_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/FreeTimeAd_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/SuspendedBallAd_$script
 ||business.msstatic.com/advertiser/$image
 ||midext2.cdn.huya.com/ext-web-mid/ext-web-sub-frame/$subdocument
 ||live-cover.msstatic.com/huyalive/*.jpg?$image
 ||tx-live-cover.msstatic.com/huyalive/*.jpg?$image
-||a.msstatic.com/huya/main3/components/OnTVLottery/$script
+||msstatic.com/huya/main3/components/OnTVLottery/$script
+||msstatic.com/huya/main3/assets/modules/CommercialAdSdk/$script
 ||stripe.com^$script,domain=~nextdns.io|~obsidian.md
 */preroll/$media,domain=91porn.com
 ||btsow.motorcycles/app/javu$image
