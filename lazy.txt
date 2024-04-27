@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-04-18 21:37:25 by:Mr.K----
+! ----Updatetime: 2024-04-27 21:37:41 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -1017,7 +1017,7 @@ pageMediaControl*$script
 */html/cbjs.html?id=$subdocument
 */html/yuedu$subdocument
 */i.js^$script,third-party
-*/image/banner/$image
+*/image/banner/$image,domain=~bilinovel.com
 */images/169$object
 */img/ads_$image
 */js/1.htm$subdocument
