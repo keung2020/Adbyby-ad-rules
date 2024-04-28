@@ -1,7 +1,6 @@
-! ----Updatetime: 2024-04-27 21:37:41 by:Mr.K----
+! ----Updatetime: 2024-04-28 21:37:29 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
-cstm.baidu.com
 ||dup.baidustatic.com/
 ||ubmcmm.baidustatic.com/
 ||adscdn.baidu.com/
@@ -17,11 +16,8 @@ kstj.baidu.com
 ||pups.bdimg.com/
 baike.baidu.com##.after-content,#adLayerSideWrap
 baike.baidu.com##.squareAni.square.super-layer-promote
-||baike.baidu.com/api/wikiad/
 fanyi.baidu.com##div.banner-wrap
 jingyan.baidu.com##.wgt-cms-banner, .right-fixed-related-wrap, #bottom-ads-container
-||app.video.baidu.com/adver?
-||v.baidu.com/staticapi/videoAd.json?
 ||eduad.baidu.com/
 pan.baidu.com##.frame-all:style(overflow-x:hidden!important)
 pan.baidu.com##.ad-platform-tips, .phone-banner
@@ -203,6 +199,7 @@ autohome.com.cn###s2287
 csdn.net###mainBox~*, body > .imgViewDom~*
 www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 ||www.epinv.com/wp-content/themes/ep/tu/
+bbs.hupu.com###game-center-entrance-container
 ithome.com##.categoryimg,#hd_float,#side_func,#con>#tt5>div,div.related_buy,li.sb_list:nth-child(5)
 icws.jb51.net
 jianshu.com###note-fixed-ad-container
@@ -897,7 +894,6 @@ pageMediaControl*$script
 ||www.hexun.com/hxpage/index.html$subdocument
 ||g.csdnimg.cn/asdf/*/trackad.js|$script,important
 ||firefoxchina.cn/html/$subdocument
-||t1.hoopchina.com.cn/$subdocument
 ||files.jb51.net^$image
 ||jianshu.io/assets/web/*-ads-$image
 ||gold-cdn.xitu.io/asset/sidbar-banner/$image

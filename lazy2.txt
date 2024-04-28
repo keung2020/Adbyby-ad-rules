@@ -1,12 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: Lazy Created by MrK
-! Version: 2024-04-27 21:37:41
+! Version: 2024-04-28 21:37:29
 ! Expires: 12 Hours
 ! Modified from xinggsf,hacamer.Thanks
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 ||cpro.$domain=~baidu.com
 ada.baidu.com
-cstm.baidu.com
 ||dup.baidustatic.com/
 ||ubmcmm.baidustatic.com/
 ||adscdn.baidu.com/
@@ -23,14 +22,12 @@ kstj.baidu.com
 ||pups.bdimg.com/
 baike.baidu.com##.after-content,#adLayerSideWrap
 baike.baidu.com##.squareAni.square.super-layer-promote
-||baike.baidu.com/api/wikiad/
+||baike.baidu.com/api/wikiad/$xhr
 ||baike.baidu.com/api/wikiui/directad?$xhr
 fanyi.baidu.com##div.banner-wrap
 ||s1.bdstatic.com/r/www/cache/biz/ecom/common/api/$script
 jingyan.baidu.com##.wgt-cms-banner, .right-fixed-related-wrap, #bottom-ads-container
 ||exp.bdstatic.com/static/exp-pc/common-jquery/widget/popup-$script
-||app.video.baidu.com/adver?
-||v.baidu.com/staticapi/videoAd.json?
 ||eduad.baidu.com/
 ||as2.wenku.baidu.com/$subdocument
 ||wkstatic.bdimg.com/static/wkview/widget/top_ads_banner/$script
@@ -97,7 +94,6 @@ wwads.cn
 *##.ad960-90
 *##.adbox
 *##.adtable
-x.qcheng.cc##+js(set,killAdKiller,noopFunc)
 *##div.a_mu,div.a_h,div.ad_pic,div.wp.a_f,div.wp.a_t,div.a_pb,div.a_pt,div.a_pr,div.a_cn,#ggPar,#preAdContent
 ~google.com,~mediafire.com##.ads
 ~google.com##.adsbygoogle
@@ -354,8 +350,7 @@ csdn.net###mainBox~*, body > .imgViewDom~*
 www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 ||www.epinv.com/wp-content/themes/ep/tu/
 ||firefoxchina.cn/html/$subdocument
-||api.huaban.com/ads^$xhr,1p,redirect=noop.txt
-||t1.hoopchina.com.cn/$subdocument
+bbs.hupu.com###game-center-entrance-container
 ithome.com##.categoryimg,#hd_float,#side_func,#con>#tt5>div,div.related_buy,li.sb_list:nth-child(5)
 ||files.jb51.net^$image
 icws.jb51.net
