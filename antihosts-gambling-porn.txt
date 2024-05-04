@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-04-25 21:38:22
+# DATE: 2024-05-04 21:37:32
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -34434,6 +34434,7 @@
 0.0.0.0 lockedinchastity.tumblr.com
 0.0.0.0 loclipnong.com
 0.0.0.0 lode247.sin88.biz
+0.0.0.0 lode555.co
 0.0.0.0 lode555.com
 0.0.0.0 lode88.online
 0.0.0.0 lode88.vip
@@ -62630,6 +62631,7 @@
 0.0.0.0 vietclan.net
 0.0.0.0 vietfun.me
 0.0.0.0 vietimg.com
+0.0.0.0 vietlott66.com
 0.0.0.0 vietnamese-porn.com
 0.0.0.0 vietnamese-sex.com
 0.0.0.0 vietsex.cam
