@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-04-30 21:38:34 by:Mr.K----
+! ----Updatetime: 2024-05-11 21:37:45 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -66,10 +66,6 @@ va.huya.com
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
 ||onetrust.
 litix.io
-youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
-youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkles-web-renderer, ytd-promoted-sparkles-web-renderer
-||youtube.com/pagead/
-||youtube.com/ptracking?
 ||google.*/pagead/
 ||gstatic.com/shopping?
 jads.co
