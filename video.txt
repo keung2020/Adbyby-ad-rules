@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-05-11 21:37:45 by:Mr.K----
+! ----Updatetime: 2024-05-12 21:37:40 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -41,18 +41,9 @@ tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
 17173.com###vjs-ad-on-pause
 ||log1.17173.com/
 ||17173.com/batch_show?ads=
-||banana.le.com/
-adxvip.com
-behe.com
-biddingx.com
-cr-nielsen.com
-fancyapi.com
+banana.le.com
 ipinyou.com
-kejet.net
-ulmdb.cn
-xelements.cn
-yoyi.com.cn
-zhiziyun.com
+||yoyi.com.cn^3p
 le.com##.min_pause_img
 le.com##.hv_wm_logo
 wan.douyu.com
@@ -70,9 +61,6 @@ litix.io
 ||gstatic.com/shopping?
 jads.co
 nnyy.in##.gm-fp-body video:style(max-height:100%!important)
-aqours.today
-bixinlive.com
-quandangdang.net
 stgowan.com
 youle55.com
 z4a.net
@@ -98,10 +86,8 @@ z4a.net
 ||data.vod.itc.cn/*&prod=ad&$media
 ||tv.sohu.com/upload/csad/admaster/$image
 ||ott.cibntv.net/*/letv-wzgug/$media
-*/letv-gug/$media
+||letvimg.com/lc*_iscms/202$image
 ||letvimg.com/*_gugwl/$image
-||js.letvcdn.com/*_banner_$script
-||jd.com/$domain=le.com
 ||douyucdn.cn/adxdsp/$image
 ||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
 ||shark2.douyucdn.cn/front-publish/live-master/js/room/topBanner_$script
