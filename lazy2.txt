@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Lazy Created by MrK
-! Version: 2024-04-28 21:37:29
+! Version: 2024-05-16 21:37:43
 ! Expires: 12 Hours
 ! Modified from xinggsf,hacamer.Thanks
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
@@ -9,10 +9,6 @@ ada.baidu.com
 ||dup.baidustatic.com/
 ||ubmcmm.baidustatic.com/
 ||adscdn.baidu.com/
-||als.baidu.com/dalog/log
-@@||eiv.baidu.com/fcimg
-||eiv.baidu.com/
-||f11.baidu.com/
 kstj.baidu.com
 ||pos.baidu.com/
 ||cbjs.baidu.com/
@@ -23,7 +19,8 @@ kstj.baidu.com
 baike.baidu.com##.after-content,#adLayerSideWrap
 baike.baidu.com##.squareAni.square.super-layer-promote
 ||baike.baidu.com/api/wikiad/$xhr
-||baike.baidu.com/api/wikiui/directad?$xhr
+||baike.baidu.com/*/directad?$xhr
+||baike.baidu.com/lemma/api/guesslike?$xhr
 fanyi.baidu.com##div.banner-wrap
 ||s1.bdstatic.com/r/www/cache/biz/ecom/common/api/$script
 jingyan.baidu.com##.wgt-cms-banner, .right-fixed-related-wrap, #bottom-ads-container

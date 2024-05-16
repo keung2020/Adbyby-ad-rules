@@ -1,13 +1,9 @@
-! ----Updatetime: 2024-04-28 21:37:29 by:Mr.K----
+! ----Updatetime: 2024-05-16 21:37:43 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 ||dup.baidustatic.com/
 ||ubmcmm.baidustatic.com/
 ||adscdn.baidu.com/
-||als.baidu.com/dalog/log
-@@||eiv.baidu.com/fcimg
-||eiv.baidu.com/
-||f11.baidu.com/
 kstj.baidu.com
 ||pos.baidu.com/
 ||cbjs.baidu.com/
