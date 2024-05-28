@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-05-20 21:37:48
+# DATE: 2024-05-28 21:38:12
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -12787,6 +12787,7 @@
 0.0.0.0 choingayiwin.top
 0.0.0.0 choingayone88.win
 0.0.0.0 choiriikvip.today
+0.0.0.0 choison.club
 0.0.0.0 choisport.com
 0.0.0.0 choisv88.live
 0.0.0.0 choita88.club
@@ -44908,6 +44909,7 @@
 0.0.0.0 play.sbotop246.com
 0.0.0.0 play.sexmotarjam.com
 0.0.0.0 play.son.club
+0.0.0.0 play.son5.club
 0.0.0.0 play.sum4.club
 0.0.0.0 play.sum5.club
 0.0.0.0 play.taib52.com
@@ -55368,6 +55370,7 @@
 0.0.0.0 somethingtohide.blogspot.com
 0.0.0.0 somulhergostosa.com
 0.0.0.0 son.club
+0.0.0.0 son5.club
 0.0.0.0 sonandmature.com
 0.0.0.0 sonasea-phuquoc.com
 0.0.0.0 soncreampiesmom.com
@@ -62719,6 +62722,7 @@
 0.0.0.0 viet69z.com
 0.0.0.0 viet69zz.com
 0.0.0.0 vietbet.eu
+0.0.0.0 vietbet89.com
 0.0.0.0 vietclan.net
 0.0.0.0 vietfun.me
 0.0.0.0 vietimg.com
@@ -88004,6 +88008,7 @@
 0.0.0.0 xo88.com
 0.0.0.0 xo88.fun
 0.0.0.0 xo88.info
+0.0.0.0 xo88.us
 0.0.0.0 xo88.win
 0.0.0.0 xo88moi.com
 0.0.0.0 xoac69.xyz
