@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-05-28 21:38:12
+# DATE: 2024-06-03 21:38:23
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1194,6 +1194,7 @@
 0.0.0.0 685788.85st-tw.net
 0.0.0.0 68b3.club
 0.0.0.0 68game2.com
+0.0.0.0 68gamebai.social
 0.0.0.0 68gamebai.tel
 0.0.0.0 68gamebai4.com
 0.0.0.0 68gamebaix.com
@@ -1276,6 +1277,7 @@
 0.0.0.0 777bets.co.uk
 0.0.0.0 777livecams.com
 0.0.0.0 777porn.com
+0.0.0.0 777vnd.vip
 0.0.0.0 777xporn.com
 0.0.0.0 7788one.com
 0.0.0.0 779one.com
@@ -1956,6 +1958,7 @@
 0.0.0.0 ad.qc789.vip
 0.0.0.0 ad.rikvip.uk
 0.0.0.0 ad.sexcount.de
+0.0.0.0 ad.taigamengay.digital
 0.0.0.0 ad.taihit.win
 0.0.0.0 ad.xxam.org
 0.0.0.0 ad.yo88.net
@@ -12788,12 +12791,15 @@
 0.0.0.0 choingayone88.win
 0.0.0.0 choiriikvip.today
 0.0.0.0 choison.club
+0.0.0.0 choison.online
 0.0.0.0 choisport.com
 0.0.0.0 choisv88.live
 0.0.0.0 choita88.club
 0.0.0.0 choitet.vip
+0.0.0.0 choithomo.com
 0.0.0.0 choitrai.com
 0.0.0.0 choitrai.net
+0.0.0.0 choivuaclub55k.info
 0.0.0.0 choiwin79.com
 0.0.0.0 choiwin79.net
 0.0.0.0 choiwin79.pro
@@ -35074,6 +35080,7 @@
 0.0.0.0 m.5porno.name
 0.0.0.0 m.66ko1.com
 0.0.0.0 m.66ko9.com
+0.0.0.0 m.777vnd.vip
 0.0.0.0 m.88viet.com
 0.0.0.0 m.88vnd.com
 0.0.0.0 m.8live.com
@@ -52310,6 +52317,7 @@
 0.0.0.0 sex.hornywombat.com
 0.0.0.0 sex.hotsex2.com
 0.0.0.0 sex.lenlut.net
+0.0.0.0 sex.lenlut.tv
 0.0.0.0 sex.mypornolab.pro
 0.0.0.0 sex.mypornolab.vip
 0.0.0.0 sex.nikee.net
@@ -52785,6 +52793,7 @@
 0.0.0.0 sexgaidep.net
 0.0.0.0 sexgaii.net
 0.0.0.0 sexgainhatban.com
+0.0.0.0 sexgaiviet.net
 0.0.0.0 sexgaixinh.biz
 0.0.0.0 sexgaixinh.me
 0.0.0.0 sexgaixinh.org
@@ -53463,6 +53472,7 @@
 0.0.0.0 sexpuss.org
 0.0.0.0 sexpussyfuck.com
 0.0.0.0 sexpussynude.com
+0.0.0.0 sexquat.com
 0.0.0.0 sexquaylen.me
 0.0.0.0 sexquaylen.org
 0.0.0.0 sexquaylen123.com
@@ -53598,6 +53608,7 @@
 0.0.0.0 sextop1.info
 0.0.0.0 sextop1.life
 0.0.0.0 sextop1.love
+0.0.0.0 sextop1.mom
 0.0.0.0 sextop1.net
 0.0.0.0 sextop1.news
 0.0.0.0 sextop1.one
@@ -53614,6 +53625,7 @@
 0.0.0.0 sextop1jav.info
 0.0.0.0 sextop1jav.net
 0.0.0.0 sextop1s.net
+0.0.0.0 sextop1to.net
 0.0.0.0 sextop1x.com
 0.0.0.0 sextop3x.com
 0.0.0.0 sextop68.com
@@ -57191,6 +57203,7 @@
 0.0.0.0 taichoihu.net
 0.0.0.0 taido99.net
 0.0.0.0 taido99.online
+0.0.0.0 taido99.site
 0.0.0.0 taido99.win
 0.0.0.0 taigame.son.club
 0.0.0.0 taigame789.club
@@ -57198,6 +57211,7 @@
 0.0.0.0 taigamehayvip.vip
 0.0.0.0 taigamehot.pro
 0.0.0.0 taigamengay.click
+0.0.0.0 taigamengay.digital
 0.0.0.0 taigamesunwin.vin
 0.0.0.0 taigamesunwin.vip
 0.0.0.0 taigem79.net
@@ -63501,6 +63515,7 @@
 0.0.0.0 vnxx.me
 0.0.0.0 vnxx.moe
 0.0.0.0 vnxx.xyz
+0.0.0.0 vnxxphim.pro
 0.0.0.0 vnxxx.biz
 0.0.0.0 vnxxx.org
 0.0.0.0 vnxxx.pro
